@@ -4,7 +4,7 @@
   "description": "Verify ERR_IPC_CHANNEL_CLOSED error on macOS 11.2.3",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index"
   },
   "author": "jian.liao@gmail.com",
   "license": "ISC"
