@@ -1,0 +1,11 @@
+{
+  "name": "ipc_error",
+  "version": "1.0.0",
+  "description": "Verify ERR_IPC_CHANNEL_CLOSED error on macOS 11.2.3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jian.liao@gmail.com",
+  "license": "ISC"
+}
